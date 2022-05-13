@@ -21,10 +21,10 @@
 
 - [x] fd
 - [x] collision
-- [x] bof
+- [x] bof - Cat flag needs to be executed manually
 - [x] passcode
 - [x] random
-- [ ] input
+- [x] input - Need to log in to the server manually
 - [ ] leg
 - [ ] mistake
 - [ ] shellshock
