@@ -23,7 +23,7 @@
 - [x] collision
 - [x] bof
 - [x] passcode
-- [ ] random
+- [x] random
 - [ ] input
 - [ ] leg
 - [ ] mistake
