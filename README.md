@@ -22,8 +22,7 @@
 - [x] fd
 - [x] collision
 - [x] bof
-- [ ] flag
-- [ ] passcode
+- [x] passcode
 - [ ] random
 - [ ] input
 - [ ] leg
