@@ -19,9 +19,9 @@
 
 <details><summary>Toddler's Bottle</summary>
 
-- [ ] fd
-- [ ] collision
-- [ ] bof
+- [x] fd
+- [x] collision
+- [x] bof
 - [ ] flag
 - [ ] passcode
 - [ ] random
