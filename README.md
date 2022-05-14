@@ -19,7 +19,7 @@
 
 Almost every challenge will have a corresponding file in the markdown directory. The function of this file is to give some hints about the challenge.
 
-Note: that it is not writeup!
+Note: it is not writeup!
 
 ## TODO
 
