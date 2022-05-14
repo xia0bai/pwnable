@@ -9,11 +9,17 @@
 █▄▄▄█   █▄▄█ █▄▄█▄█  █▄▄█▄▄█ █▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█  █▄▄▄█   █▄▄█ █▄▄█ █▄▄▄█ █▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄█ █▄▄█▄▄▄▄▄▄██▄▄▄▄▄▄▄█
 ```
 
-## How to use?
+## How to use
 
 1. install `pwntools==4.8.0`
-2. cd directory
+2. cd scripts directory
 3. run command `python3 script_name.py`
+
+## The use of markdown
+
+Almost every challenge will have a corresponding file in the markdown directory. The function of this file is to give some hints about the challenge.
+
+Note: that it is not writeup!
 
 ## TODO
 
@@ -25,8 +31,8 @@
 - [x] passcode
 - [x] random
 - [x] input - Need to log in to the server manually
-- [x] leg - just md, no script
-- [ ] mistake
+- [x] leg - just have markdown, no script
+- [x] mistake
 - [ ] shellshock
 - [ ] coin1
 - [ ] blackjack
