@@ -42,7 +42,7 @@ stage5()
 
 p.recvuntil("5 clear!\n")
 flag = p.recvline().decode().strip()
-print(f"Flag is: {flag}")
+print "Flag is: {}".format(flag)
 """
 
 REMOTE_ADDRESS = "pwnable.kr"
