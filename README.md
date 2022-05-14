@@ -25,7 +25,7 @@
 - [x] passcode
 - [x] random
 - [x] input - Need to log in to the server manually
-- [ ] leg
+- [x] leg - just md, no script
 - [ ] mistake
 - [ ] shellshock
 - [ ] coin1
