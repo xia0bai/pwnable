@@ -34,7 +34,7 @@ Note: it is not writeup!
 - [x] input - no markdown
 - [x] leg - just markdown
 - [x] mistake
-- [ ] shellshock
+- [x] shellshock
 - [ ] coin1
 - [ ] blackjack
 - [ ] lotto
