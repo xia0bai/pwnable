@@ -27,11 +27,12 @@ Note: it is not writeup!
 
 - [x] fd
 - [x] collision
-- [x] bof - Cat flag needs to be executed manually
+- [x] bof
+- [x] flag - just markdown
 - [x] passcode
 - [x] random
-- [x] input - Need to log in to the server manually
-- [x] leg - just have markdown, no script
+- [x] input - no markdown
+- [x] leg - just markdown
 - [x] mistake
 - [ ] shellshock
 - [ ] coin1
